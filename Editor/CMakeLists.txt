@@ -1,9 +1,11 @@
 SET(SOURCES
   main.cpp
+  mainwindow.cpp
+
 )
 
 SET(HEADERS
- 
+ mainwindow.h
 )
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
